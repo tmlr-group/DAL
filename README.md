@@ -66,7 +66,7 @@ To train the DOE model on CIFAR benckmarks, simply run:
 
 - CIFAR-10
 ```train cifar10
-python dal.py cifar10 --gamma=10 --beta=.01  --rho=10  --iter=10 --learning_rate=0.07 --strength=1
+python main.py cifar10 --gamma=10 --beta=.01  --rho=10  --iter=10 --learning_rate=0.07 --strength=1
 ```
 
 
